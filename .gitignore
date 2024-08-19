@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+*.egg-info/
+.installed.cfg
+*.egg
+*.log
+
+# Serverless Framework
+.serverless/
+.env
+node_modules/
+
+# AWS credential files
+*.pem
+
+# MacOS
+.DS_Store
+
+# VSCode settings
+.vscode/
